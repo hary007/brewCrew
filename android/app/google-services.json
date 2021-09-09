@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305514984284",
+    "project_id": "epheotus",
+    "storage_bucket": "epheotus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305514984284:android:9774c56ac798eabfbb4799",
+        "android_client_info": {
+          "package_name": "com.thebeginning.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305514984284-tk5ib620ecsd9jvsjv70b3ftf4k7mivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFZvIpsdLHZ3toMgayj1P8MWZaZIXY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305514984284-tk5ib620ecsd9jvsjv70b3ftf4k7mivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
